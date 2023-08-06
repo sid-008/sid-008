@@ -1,3 +1,3 @@
 # Hello!
 
-I'm sid, I love linux, systems engineering and backend development.
+I'm sid, I love linux, systems/networks engineering and am a budding backend developer!
